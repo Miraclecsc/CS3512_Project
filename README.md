@@ -5,17 +5,18 @@ The project is organized into several directories and files, as shown below:
 
 CS3512_PROJECT
 ├── audio
-│ ├── asr.py
-│ └── librispeech.py
+│   ├── asr.py
+│   └── librispeech.py
 ├── data
-│ └── sample2.flac
+│   └── sample2.flac
 ├── language
-│ ├── chat_with_TinyLlama_AWQ.py
-│ ├── eval_awq.py
-│ └── llama.py
+│   ├── chat_with_TinyLlama_AWQ.py
+│   ├── eval_awq.py
+│   └── llama.py
 ├── demo.mp4
 ├── main.py
 └── README.md
+
 
 ### Directory and File Descriptions
 
