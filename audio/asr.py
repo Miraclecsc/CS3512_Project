@@ -37,4 +37,4 @@ def transcribe_file(file_path: str) -> str:
 if __name__ == "__main__":
     # print("Transcribing from microphone...")
     # print(transcribe_mic(10))
-    print(transcribe_file("sample2.flac"))
+    print(transcribe_file("../data/sample2.flac"))

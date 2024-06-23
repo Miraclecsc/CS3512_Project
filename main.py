@@ -93,7 +93,7 @@ def main():
         checkpoint, low_cpu_mem_usage=True, device_map=device
     )
 
-    audio_file = "sample2.flac"
+    audio_file = "../data/sample2.flac"
     if audio_file:
         print(f"Transcribing audio file: {audio_file}")
         inp = transcribe_file(audio_file)
