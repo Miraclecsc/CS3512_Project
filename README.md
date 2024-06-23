@@ -30,12 +30,14 @@ CS3512_PROJECT
   - `chat_with_TinyLlama_AWQ.py`: Script for interacting with the TinyLlama model using AWQ (accelerated weight quantization).
   - `eval_awq.py`: Script for evaluating the AWQ model.
   - `llama.py`: Script for evaluating TinyLlama model with llama.cpp.
+  - `AWQ.py`: Script to use AWQ.
+  - `GPTQ.py`: Script to use GPTQ.
 
-- **demo.mp4**: Demo video file showcasing the project.
+- **`demo.mp4`**: Demo video file showcasing the project.
 
-- **main.py**: Main script for running the demo project on **RaspberryPi**.
+- **`main.py`**: Main script for running the demo project on **RaspberryPi**.
 
-- **README.md**: This file containing the project documentation.
+- **`README.md`**: This file containing the project documentation.
 
 ### Getting Started
 
