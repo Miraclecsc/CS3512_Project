@@ -30,8 +30,8 @@ CS3512_PROJECT
   - `chat_with_TinyLlama_AWQ.py`: Script for interacting with the TinyLlama model using AWQ (accelerated weight quantization).
   - `eval_awq.py`: Script for evaluating the AWQ model.
   - `llama.py`: Script for evaluating TinyLlama model with llama.cpp.
-  - `AWQ.py`: Script to use AWQ.
-  - `GPTQ.py`: Script to use GPTQ.
+  - `AWQ.py`: Script to use AWQ to quantize language model.
+  - `GPTQ.py`: Script to use GPTQ to quantize language model.
 
 - **`demo.mp4`**: Demo video file showcasing the project.
 
